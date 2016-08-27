@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_products"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Products" />
+        <item
+            android:id="@+id/nav_forms"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Other Apps" />
+        <item
+            android:id="@+id/nav_sales_tools"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Sales Tools" />
+
+       <item
+           android:id="@+id/nav_messages"
+
+            android:title="Team Messages"
+           android:icon="@android:drawable/sym_action_email" />
+        <item
+            android:id="@+id/nav_news"
+            android:icon="@android:drawable/ic_menu_view"
+            android:title="News" />
+    </group>
+    <item
+        android:id="@+id/nav_events"
+        android:icon="@android:drawable/ic_menu_today"
+        android:title="Events" />
+
+    <item android:title="My Clients"
+        android:id="@+id/nav_clients"
+        android:icon="?android:attr/fingerprintAuthDrawable" />
+    <item
+        android:id="@+id/nav_agenda"
+        android:title="Agenda"
+        android:icon="@android:drawable/ic_menu_agenda" />
+
+
+    <item android:title="Calendar"
+        android:id="@+id/nav_schedule"
+        android:icon="@android:drawable/ic_menu_my_calendar" />
+    <item
+        android:id="@+id/nav_social"
+        android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Contact us" />
+        </menu>
+    </item>
+
+</menu>

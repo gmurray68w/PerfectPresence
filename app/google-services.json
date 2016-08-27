@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "311417683675",
+    "firebase_url": "https://perfectpresence-df69a.firebaseio.com",
+    "project_id": "perfectpresence-df69a",
+    "storage_bucket": "perfectpresence-df69a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311417683675:android:d856e2cd7402dbc6",
+        "android_client_info": {
+          "package_name": "com.murraystudios.graham.perfectpresence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311417683675-n2ag92qk8hae6lk9hp4pbc9inchtledt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.murraystudios.graham.perfectpresence",
+            "certificate_hash": "DDD8BA8443B1690981361F06BA43CD75C50918D3"
+          }
+        },
+        {
+          "client_id": "311417683675-rvkcvvi4r22ru2bclnrt2oj1rkmln2pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOVwhLXIhXvy0keaGYs289ma2-X3Kuxu0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311417683675-rvkcvvi4r22ru2bclnrt2oj1rkmln2pm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
